@@ -7,12 +7,14 @@ body {
 }
 
 body {
+  background-image: url('The Gobi Desert.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
   font-family: 'Montserrat', sans-serif;
-  margin: 0;
-  padding: 0;
-  background: #f8f9fa;
-  color: #333;
 }
+
 
 .container {
   max-width: 1000px;
